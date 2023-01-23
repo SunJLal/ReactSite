@@ -1,0 +1,7 @@
+.bg-cover {
+    margin-top: -60px;
+    z-index: -1;
+    background-position: 50%;
+    background-image: url("/public/assets/images/bird.png");
+    height: 500px;
+  }
