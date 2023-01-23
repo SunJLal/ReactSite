@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="rategenius-logo"
+   width="90"
+   height="90"
+   viewBox="0 0 45 45"
+   fill="none"
+   version="1.1"
+   sodipodi:docname="tsg2.svg"
+   inkscape:version="1.2.1 (8a69933317, 2022-10-28, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview55"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.1911127"
+     inkscape:cx="31.173718"
+     inkscape:cy="41.995682"
+     inkscape:window-width="1452"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="rategenius-logo" />
+  <path
+     style="fill:#00b5e2;stroke-width:0.420314"
+     d="m 25.24995,42.529053 c -1.014663,-1.014664 -1.031678,-1.14985 -1.031678,-8.196121 V 27.168486 H 13.153218 c -11.0227181,0 -11.0685517,-0.0036 -11.9789494,-0.972796 -0.8910827,-0.948514 -0.91389476,-1.252176 -0.91389476,-12.16527 0,-11.0895143 0.008595,-11.1984972 0.93415066,-11.8467828 0.7917181,-0.5545407 2.7364186,-0.6543043 12.7544335,-0.6543043 11.479216,0 11.843386,0.025503 12.620976,0.8839189 0.734494,0.8108392 0.811079,1.7490951 0.926317,11.3484782 l 0.125625,10.464559 h 7.564211 c 10.246196,0 9.627573,-0.633444 9.627573,9.858274 0,7.234495 -0.06043,7.85535 -0.840628,8.635542 -0.784714,0.784713 -1.401045,0.840627 -9.266015,0.840627 -8.38505,0 -8.430323,-0.0049 -9.457067,-1.031679 z M 42.291775,34.103667 V 27.168486 H 34.93628 27.580783 v 6.935181 6.935181 h 7.355497 7.355495 z M 24.218272,14.138754 V 4.0512168 H 13.500264 2.7822577 V 14.138754 24.226289 H 13.500264 24.218272 Z"
+     id="path1819" />
+  <defs
+     id="defs52">
+    <clipPath
+       id="clip0_117_893">
+      <rect
+         width="192"
+         height="40"
+         fill="#80A53F"
+         id="rect49" />
+    </clipPath>
+  </defs>
+</svg>

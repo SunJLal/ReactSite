@@ -1,0 +1,23 @@
+button:focus,
+button:focus-visible {
+  outline: 0px auto -webkit-focus-ring-color;
+}
+nav {
+  background-color: rgb(0 0 0 / 40%);
+}
+.mobile-nav-text {
+  display: none;
+}
+
+#colorMode:hover {
+  color: yellow;
+}
+
+@media only screen and (max-width: 991px) {
+  .navbar-nav {
+    padding-bottom: 60px;
+  }
+  .mobile-nav-text {
+    display: inline;
+  }
+}
